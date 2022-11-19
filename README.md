@@ -20,4 +20,4 @@ I'm Sangwon an aspiring data analyst well versed in SQL, Python, Tableau, Power 
 Feel free to reach out to me anytime!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sangwon%20Baek-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sangwon-baek/)
-[![Gmail Badge](https://img.shields.io/badge/-sangwonbaek0620@gmail.com@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sangwonbaek0620@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sangwonbaek0620@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sangwonbaek0620@gmail.com)
