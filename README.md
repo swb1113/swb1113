@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sangwon an aspiring data analyst well versed in SQL, Python, Tableau, Power Bi, and Excel. 
+I'm Sangwon an aspiring data analyst well versed in SQL, Python, Tableau, Power Bi, R, and Excel. 
 
 Feel free to reach out to me anytime!
 
